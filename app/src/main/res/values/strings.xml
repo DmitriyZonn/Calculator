@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">my_wonderful_calculator</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="key_0">0</string>
+    <string name="key_dot">.</string>
+    <string name="key_equals">=</string>
+    <string name="key_division">/</string>
+    <string name="key_multip">*</string>
+    <string name="key_minus">-</string>
+    <string name="key_plus">+</string>
+    <string name="settings">Settings</string>
+    <string name="switch1">Switch</string>
+</resources>
